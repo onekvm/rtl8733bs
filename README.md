@@ -1,5 +1,7 @@
 # rtl8733bs
 
+English | [简体中文](README.zh-CN.md)
+
 Realtek RTL8733BS SDIO Wi-Fi and Bluetooth drivers for the optional Wi-Fi
 module on NanoKVM PCIe.
 
